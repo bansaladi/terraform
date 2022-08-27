@@ -11,6 +11,6 @@ Open CMD using “Run as Administrator” and run this command:
 
 $ choco install terraform
 
-# Check whether it is installed or not using:
+# Check whether it is installed or not:
 
 $ terraform -help
