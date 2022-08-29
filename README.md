@@ -1,5 +1,7 @@
 # Terraform in Windows
 
+https://medium.com/@bansaladi/install-terraform-in-windows-in-2-minutes-with-only-2-commands-ea19fa318c7
+
 How to install it:
 
 # Install Chocolatey
